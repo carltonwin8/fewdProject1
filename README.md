@@ -17,7 +17,7 @@ that I can see the real time update of the markdown as I type.
 The markdown that makes up this text can also be viewed on
 [GitHub](http://github.com)
 by clicking
-[here](htt://appsfortracking.github.com).
+[here](https://github.com/carltonwin8/fewdProject1).
 
 ## References <a id="reference"></a>
 I read the three documents suggested and am linking them
