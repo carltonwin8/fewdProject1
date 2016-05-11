@@ -7,6 +7,13 @@
  * [Letter To Future Self](#letter)
  * [Goals](#goals)
 
+## Foreword
+Due to a Udacity bug noted in
+[this pdf](submissionError.pdf)
+this is the second time this project is being submitted.
+The link for the first submission review/result is at the
+end of the pdf. 
+
 ## Introduction <a id="introduction"></a>
 This document is written for the first assignment/project of the
 [Udacity](http://www.udacity.com/)
