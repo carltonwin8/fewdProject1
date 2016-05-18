@@ -26,6 +26,8 @@ The markdown that makes up this text can also be viewed on
 [GitHub](http://github.com)
 by clicking
 [here](https://github.com/carltonwin8/fewdProject1).
+Github pages also server this content and can be view
+[here](https://carltonwin8.github.com/fewdProject1).
 
 ## References <a id="reference"></a>
 I read the three documents suggested and am linking them
